@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Message</string>
+    <string name="hyperlink">Visit Zuri training link at\n<a href="https://internship.zuri.team">internship.zuri.team</a></string>
+</resources>
